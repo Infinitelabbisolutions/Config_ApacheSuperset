@@ -95,3 +95,49 @@ Se encontrar problemas:
 
 ---
 ⭐ Se este guia foi útil, considere dar uma estrela no repositório!
+
+## 📊 Exemplos de Dashboards
+
+Aqui estão alguns exemplos do que você pode criar com o Apache Superset:
+
+### Dashboard de Vendas
+![Dashboard de Vendas](https://raw.githubusercontent.com/apache/superset/master/superset-frontend/src/assets/images/explore.jpg)
+*Dashboard mostrando análise de vendas com diferentes visualizações como gráficos de barras, linhas e indicadores de desempenho.*
+
+### Análise Geográfica
+![Análise Geográfica](https://raw.githubusercontent.com/apache/superset/master/superset-frontend/src/assets/images/dashboard.jpg)
+*Exemplo de dashboard com mapas e análises geográficas, permitindo visualizar dados distribuídos por região.*
+
+### Principais Recursos de Visualização:
+- Gráficos de linha e área para análise de tendências
+- Gráficos de barra e colunas para comparações
+- Mapas de calor e dispersão
+- Gráficos de pizza e rosca
+- Tabelas dinâmicas
+- Mapas geográficos
+- Indicadores e métricas em tempo real
+- Filtros interativos
+- Dashboards responsivos
+
+### Exemplos de Uso:
+1. **Monitoramento de Vendas**
+   - Acompanhamento de receita diária/mensal
+   - Análise de produtos mais vendidos
+   - Performance por região/vendedor
+
+2. **Análise Financeira**
+   - Acompanhamento de despesas
+   - Análise de lucratividade
+   - Projeções financeiras
+
+3. **Marketing Digital**
+   - Métricas de campanhas
+   - Análise de conversão
+   - Comportamento do usuário
+
+4. **Operações**
+   - Monitoramento de estoque
+   - Eficiência operacional
+   - Controle de qualidade
+
+Estes são apenas alguns exemplos do potencial do Apache Superset. A ferramenta é altamente customizável e pode ser adaptada para diversos casos de uso e necessidades específicas.

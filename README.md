@@ -30,12 +30,7 @@ docker run -d -p 8080:8088 -e "SUPERSET_SECRET_KEY=your_secret_key_here" --name 
 
 #### 2.3 Criação do Usuário Admin
 ```bash
-docker exec -it superset superset fab create-admin \
-    --username admin \
-    --firstname Superset \
-    --lastname Admin \
-    --email admin@superset.com \
-    --password admin
+docker exec -it superset superset fab create-admin \ --username admin \ --firstname Superset \ --lastname Admin \ --email admin@superset.com \ --password admin
 ```
 
 #### 2.4 Atualização do Banco de Dados
